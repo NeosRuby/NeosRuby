@@ -1,4 +1,4 @@
-<h2 align="left">- 🔭 Estudanto<br>- 🌱 javascript,HTML e CSS<br>- 📫 email de contato: neosruby@gmail.com<br>- 😄 Pronomes: qualquer<br>- ⚡ Fun fact: Gosto de jogos</h2>
+<h2 align="left">- 🔭 Estudanto<br>- 🌱Java e Spring Framework <br>- 📫 email de contato: neosruby@gmail.com<br>- 😄 Pronomes: qualquer<br>- ⚡ Fun fact: Gosto de jogos</h2>
 
 ###
 
